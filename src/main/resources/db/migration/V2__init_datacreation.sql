@@ -1,0 +1,1 @@
+insert into bookdb.book(book_id, book_name, author_name) values('e0610a71-589e-421a-ade1-14d67d517b1e', 'Fear', 'WOODWARD');
